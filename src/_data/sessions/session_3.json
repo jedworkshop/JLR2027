@@ -1,0 +1,38 @@
+{
+  "time": "14:45-15:45",
+  "title": "午後＜２＞",
+  "chair": " ()",
+  "has_detail": true,
+  "talks": [
+    {
+      "id": "c-1",
+      "type": "normal",
+      "time": "14:45-15:10",
+      "title": "",
+      "presenter": " ()",
+      "online": false,
+      "material": "../materials/c-1.pdf",
+      "abstract": ""
+    },
+    {
+      "id": "c-2",
+      "type": "normal",
+      "time": "14:45-15:10",
+      "title": "",
+      "presenter": " ()",
+      "online": false,
+      "material": "../materials/c-2.pdf",
+      "abstract": ""
+    },
+    {
+      "id": "c-3",
+      "type": "lt",
+      "time": "15:35-15:45",
+      "title": "",
+      "presenter": " ()",
+      "online": false,
+      "material": "../materials/c-3.pdf",
+      "abstract": ""
+    }
+  ]
+}

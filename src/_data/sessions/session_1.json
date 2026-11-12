@@ -1,0 +1,58 @@
+{
+  "time": "10:05-11:45",
+  "title": "午前＜１＞",
+  "chair": " ()",
+  "has_detail": true,
+  "talks": [
+    {
+      "id": "a-1",
+      "type": "normal",
+      "time": "10:05-10:25",
+      "title": "",
+      "presenter": " ()",
+      "online": false,
+      "material": "../materials/a-1.pdf",
+      "abstract": ""
+    },
+    {
+      "id": "a-2",
+      "type": "normal",
+      "time": "10:25-10:45",
+      "title": "",
+      "presenter": " ()",
+      "online": false,
+      "material": "../materials/a-2.pdf",
+      "abstract": ""
+    },
+    {
+      "id": "a-3",
+      "type": "normal",
+      "time": "10:45-11:15",
+      "title": "",
+      "presenter": " ()",
+      "online": false,
+      "material": "../materials/a-3.pdf",
+      "abstract": ""
+    },
+    {
+      "id": "a-4",
+      "type": "normal",
+      "time": "11:15-11:35",
+      "title": "",
+      "presenter": " ()",
+      "online": false,
+      "material": "../materials/a-4.pdf",
+      "abstract": ""
+    },
+    {
+      "id": "a-5",
+      "type": "lt",
+      "time": "11:35-11:45",
+      "title": "",
+      "presenter": " ()",
+      "online": true,
+      "material": "../materials/a-5.pdf",
+      "abstract": ""
+    }
+ ]
+}
