@@ -11,7 +11,7 @@ index: true
 
 日時：2027年3月19日(金) 全日開催
 </td><td style="vertical-align:top;">
-  <img src="https://jedworkshop.github.io/JLR2027/img/icon.png" style="width:120px;">  
+  <img src="{{ '/img/icon.png' | url }}" style="width:120px;">  
 </td>
 </tr><tr><td colspan="2">
 会場：福岡国際会議場＋オンライン中継のハイブリッド開催  
@@ -176,7 +176,7 @@ NLP2027 の参加登録期間は、<span>事前登録が2027/01/13〜02/18</span
 - 大村 舞 <small>大阪樟蔭女子大学</small>
 - 河原 大輔 <small>早稲田大学</small>
 - 柴田 知秀 <small>東京理科大学</small>
-- 松田寛 <small>株式会社リクルート Megagon Labs</small>
+- 松田 寛 <small>株式会社リクルート Megagon Labs</small>
 - 松野 智紀 <small>SB Intuitions 株式会社</small>
 
 問い合わせ先 JLR2027 (at) googlegroups.com
